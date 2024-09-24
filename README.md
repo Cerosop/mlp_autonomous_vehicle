@@ -1,3 +1,6 @@
+### 使用語言及技術
+Python、Tkinter、類神經網路、機器學習
+### MLP架構
 ```mermaid
 graph LR
     A[輸入維度] --> B[4]
@@ -22,3 +25,11 @@ graph LR
     B --> Model1
     C --> Model2
 ```
+
+### 實作結果
+#### 4維
+![image](https://github.com/user-attachments/assets/77502ed6-5cdc-4d01-a134-659a89f1d3a8)
+
+#### 6維
+![image](https://github.com/user-attachments/assets/0132aada-aa69-4b5a-a060-39c23582536a)
+
