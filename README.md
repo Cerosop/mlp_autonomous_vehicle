@@ -1,3 +1,5 @@
+## mlp_autonomous_vehicle
+Manually implemented an MLP and trained a model to enable a self-driving car to reach its destination, with the results presented through an interface.
 ### 使用語言及技術
 Python、Tkinter、類神經網路、機器學習
 ### MLP架構
